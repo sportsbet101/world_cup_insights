@@ -1,1 +1,9 @@
-# world_cup_insights
+-   [World Cup](http://world-cup-ph.com) --- World Football Championship
+-   [World Cup Live](http://world-cup-live.net) --- Live Football Tournament Action
+-   [World Cup Live Score](http://worldcuplive-score.com) --- Real-Time Football Scores
+-   [World Cup Scores](http://worldcupscores8.com) --- Football Tournament Scores
+-   [World Cup Fixtures](http://worldcupfixtures.net) --- FIFA Match Fixtures
+-   [World Cup Schedule](http://worldcupschedule.net) --- Match Timetable
+-   [World Cup Standings](http://worldcup-standings.com) --- Competition Leaderboard
+-   [World Cup Results](http://worldcupresults.net) --- Competition Results
+-   [World Cup News](http://world-cup-news.net) --- World Cup Reports
